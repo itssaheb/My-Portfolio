@@ -384,6 +384,7 @@ img {
 }
 
 .button--white {
+  margin: 10px;
   background-color: #fff;
   color: var(--first-color);
 }
